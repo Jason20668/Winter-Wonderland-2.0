@@ -25,8 +25,18 @@
     },
     {
         "text": ["As you move forward into the icy landscape you find yourself at a gingerbread house, a snowman comes our and extends his hand, you look to see him offering you an ornament."],
-        "Choice1": [" You take the ornament carefully. It hums softly in your hand, filling you with a comforting warmth. You sense a protective magic surrounding you—subtle but strong."],
-        "Choice2": [" You shake your head and step past the gingerbread house. The snowman’s smile fades slightly, but he says nothing. The snow crunches under your feet as the wind picks up again."],
-        "Choice3": ["You shrug and eat the ornament. Its metallic taste is horrible and the sharp shards cut into your tongue. You spit it out immediately and wonder why you would do something so stupid."]
+        "Take": [" You take the ornament carefully. It hums softly in your hand, filling you with a comforting warmth. You sense a protective magic surrounding you—subtle but strong."],
+        "Leave": [" You shake your head and step past the gingerbread house. The snowman’s smile fades slightly, but he says nothing. The snow crunches under your feet as the wind picks up again."],
+        "Eat": ["You shrug and eat the ornament. Its metallic taste is horrible and the sharp shards cut into your tongue. You spit it out immediately and wonder why you would do something so stupid."]
+    },
+    {
+        "text": ["As you continue on you reach a bridge covered in ice and snow. As you traverse across a snow ogre suddenly leaps from below and blocks your path. he bellows 'Adventurer, answer my riddle and you may pass. There are two penguins in a boat in the middle of a snowstorm. One penguin looks at the other and says 'Wears the oar' the other says 'Sure does' how does this make sense?'"],
+        "Correct": ["The penguins are wearing the oats down not asking where the oar is"],
+        "Incorrect":["I don't know pretty please let me through"],
+        "Mean": ["I dont know you fat ugly ogre get off the bridge before it breaks and leave me alone"]
+    },
+    {
+        "text": ["After crossing the bridge you finally find yourelf at the wizard's evil castle. You steel your resolve as you enter and see the wizard inside, what do you do?", "Wow your an asshole that was very unnecessary. The ogre immediately starts sobbing uncontrollably and jumps back down below the bridge and after crossing the bridge you finally find yourelf at the wizard's evil castle. You see the wizard inside, what do you do?"],
+        
     }
 ]
