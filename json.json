@@ -1,0 +1,32 @@
+[
+    {
+        "text": ["You wake up in a mysterious snowfilled land, you have no idea where you are or how you got here, all that exists is snowy ground as far as you can see. “Hello Traveler” you hear from behind you, I have brought you here to defeat the evil Wizard that is trapping these lands in an endless blizzard. You can find the Evil Blizzard Wizard in his castle at the top of the mountain, but first you must choose your weapon."],
+        "Bow": ["A Bow. The snow seems to part wherever you step, as if the land itself is guiding your aim."],
+        "S&S": ["A Sword and Shield. The blade is solid and heavy, and the shield bears marks of past battles."],
+        "Magic": ["Arcane Magic. The air around you responds to your will, and you feel a surge of power within."]
+    },
+    {
+        "text": ["Your journey begins! Armed with your trusty bow you set off to defeat the evil Blizzard Wizard. What will you do?"],
+        "B1-A": ["Climb the high ridge near you to get a better view. Hopefully you can spot the wizard from there."],
+        "B1-B": ["There's fresh tracks in the snow from an unknown animal. Follow them to see where they lead."],
+        "B1-C": ["Wait for the snowfall to thicken. Your tracks will be hidden, making it easier to sneak up on the wizard."]
+    },
+    {
+        "text": ["Your journey begins! With the mighty sword and unbreakable shield you set off to defeat the evil Blizzard Wizard. What will you do?"],
+        "S1-A": ["You brave the storm and push onward through the ice and snow. You don't have time to wait and the wizard won't wait for you."],
+        "S1-B": ["You use the sword to clear a path through the snow, cutting through frozen branches and ice. Its exhausting work, but the clear path will make your journey faster."],
+        "S1-C": ["You make camp and use your shield to block the wind. You need to be well rested and regain your strength for the journey ahead."]
+    },
+    {
+        "text": ["Your journey begins! The arcane magic coursing through you fills you with determination as you set off to defeat the evil Blizzard Wizard. What will you do?"],
+        "M1-A": ["You raise your hands and freeze the storm around you. Snow hangs motionless in the air, creating a silent corridor forward."],
+        "M1-B": ["You summon a guiding light in front of you. It weaves through the storm, hopefully guiding you through the safest path towards the mountain."],
+        "M1-C": ["You focus hard and attempt to absorb the freezing storm with your magic. The cold burns, but your power surges in response."]
+    },
+    {
+        "text": ["As you move forward into the icy landscape you find yourself at a gingerbread house, a snowman comes our and extends his hand, you look to see him offering you an ornament."],
+        "Choice1": [" You take the ornament carefully. It hums softly in your hand, filling you with a comforting warmth. You sense a protective magic surrounding you—subtle but strong."],
+        "Choice2": [" You shake your head and step past the gingerbread house. The snowman’s smile fades slightly, but he says nothing. The snow crunches under your feet as the wind picks up again."],
+        "Choice3": ["You shrug and eat the ornament. Its metallic taste is horrible and the sharp shards cut into your tongue. You spit it out immediately and wonder why you would do something so stupid."]
+    }
+]

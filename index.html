@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Winter Wonderland Adventure</title>
+    <link rel="icon" type="image/x-icon" href="img/Frosty.png">
+    <script src="https://cdn.jsdelivr.net/npm/vue@3.3.4/dist/vue.global.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+    <div id="app">
+        <div class="container">
+            <h1 class="title">❄️ Winter Wonderland❄️ Adventure </h1>
+            <div id="Outline">
+                <p class="subtitle">Choose Your Own Festive Journey</p>
+                <div class="music-controls">
+                    <button class="music-btn" onclick="toggleMusic()">
+                        <audio src="img/Fortnite  Festive Lobby Music (C1S7 Battle Pass).mp3" loop
+                            id="fortMusic"></audio>
+                        <div id="Outline">Play/Pause Music</div>🎵
+                    </button>
+                </div>
+            </div>
+
+
+            <div class="story-card">
+                <div id="Outline">
+                    <div class="story-text">{{ currentScene.text }}</div>
+                </div>
+
+
+                <div id="Outline">
+                    <div class="choices" v-if="currentScene.choices">
+                        <button class="choice-btn" v-for="choice in currentScene.choices" :key="choice.text"
+                            @click="makeChoice(choice.next)">
+                            {{ choice.text }}
+                        </button>
+                    </div>
+                    <div>
+
+
+
+
+                        <div v-if="!currentScene.choices">
+                            <p class="story-text">🎄 The End 🎄</p>
+                            <button class="restart-btn" @click="restartStory">Start New Adventure</button>
+                        </div>
+
+
+                        <div class="progress">Scene {{ sceneHistory.length }} of your journey</div>
+                    </div>
+                </div>
+            </div>
+            <script src="script.js"></script>
+
+
+</body>
+
+
+</html>
