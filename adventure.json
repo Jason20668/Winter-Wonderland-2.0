@@ -1,0 +1,32 @@
+{
+  "story1": [
+    "You wake up in a winter wonderland. The trees tower are full of christmas lights, and you hear distant sounds of laughter. What will you do?",
+    "You follow the narrow path deeper into the forest and find a large cabin covered in lights. Smoke rises from the chimney and it exudes christmas cheer.",
+    "You open the cabin door and are greeted with the wonderful smell of freshly baked cookies. You see what appears to be elves running around preparing toys",
+    "The elves appreciate the help and as your doing so Santa walks over to shake your hand and welcome you. He says he likes your spirit and asks if you want to join him tonight?",
+    "You feel the wind sweep through your hair as you ride in the sleigh with Santa delivering presents. Unfortunately trouble is brewing and Santa realizes that he won't get all the presents out if you don't do something",
+    "You decide to split up with Santa and take half of the presents. The plan works and your barely able to deliver all of the presents thanks to the two of you. Santa thanks you and you enjoy a very merry christmas together"
+  ],
+  "story2": [
+    "You wake up in a winter wonderland. The trees tower are full of christmas lights, and you hear distant sounds of laughter. What will you do?",
+    "You climb a large tree to get a better view. From the top, you see a large cabin in the distance and decide to check it out.",
+    "As you knock on the door Mrs. Claus appears with a cookies she just finished baking. She invites you inside and you see elves hastily getting ready for Christmas",
+    "You and Mrs. Clause have a wonderful time eating the cookies and talking. During your conversation Santa enters and introduces himself. He says you've been good this year and asks if you'd help him deliver presents tonight",
+    "You feel the soft fur of the reindeer under you and Santa's laughter as you ride a reindeer next to his sleigh. Unfortunately Santa realized that if something isn't done he won't make it in time this year",
+    "You call on the elves and they scatter across the globe delivering the presents. Your able to finish in record time thanks to this and Santa thanks you for the new idea by inviting you to spend Christams Day together"
+  ],
+  "option1": [
+    "Follow the path into the forest.",
+    "Open the cabin door",
+    "Help the elves prepare for Christmas",
+    "Accompany Santa in his sleigh",
+    "Split up with Santa"
+  ],
+  "option2": [
+    "Climb a tree to look around.",
+    "Knock on the door instead of entering.",
+    "Eat cookies and relax with Mrs. Claus",
+    "Ride on of the reindeer with Santa",
+    "Have the elves help deliver the presents"
+  ]
+}
